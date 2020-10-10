@@ -26,4 +26,6 @@ include("rules.jl")
 include("rule_definition_tools.jl")
 include("ruleset_loading.jl")
 
+include("utils.jl")
+
 end # module
